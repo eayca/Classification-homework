@@ -1,4 +1,4 @@
 # Classification-homework
 
-1. Resample
+1. Resampling
 2. Ensemble Learning
